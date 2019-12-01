@@ -1,0 +1,23 @@
+
+@import url("https://fonts.googleapis.com/css?family=Montserrat|Raleway&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card1.css");
+body {
+	font-family: "Montserrat", sans-serif;
+	background-color: rgb(240,240,240);
+	font-size: 18px;
+}
+
+h1, h2,h3{
+	font-family: "Raleway", Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+
+}
